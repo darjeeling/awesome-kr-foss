@@ -8,7 +8,7 @@ inspired by [awesome-tw-foss](https://github.com/tjwei/awesome-tw-foss)
 * must have CI
 * must have testing
 * must have document
-* must have at least one contribution from none korean people
+* must have at least one contribution from Non-Koreans
 
 
 
