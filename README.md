@@ -17,3 +17,6 @@ inspired by [awesome-tw-foss](https://github.com/tjwei/awesome-tw-foss)
 
 ## Java
 * [Netty](https://github.com/netty/netty) Netty project - an event-driven asynchronous network application framework http://netty.io/
+
+## Javascript
+* [Summernote](https://github.com/summernote/summernote) Super simple WYSIWYG editor using Bootstrap http://summernote.org/
