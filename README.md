@@ -23,6 +23,10 @@ inspired by [awesome-tw-foss](https://github.com/tjwei/awesome-tw-foss)
 ## Javascript
 * [Summernote](https://github.com/summernote/summernote) Super simple WYSIWYG editor using Bootstrap http://summernote.org/
 
+## Ruby
+
+* [CocoaSeeds](https://github.com/devxoul/CocoaSeeds) Git Submodule Alternative for Cocoa.
+
 ## Rust
 * [rust-chrono](https://github.com/lifthrasiir/rust-chrono) Date and time library for Rust
 * [rust-encoding](https://github.com/lifthrasiir/rust-encoding) Character encoding support for Rust
