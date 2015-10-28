@@ -5,11 +5,8 @@ inspired by [awesome-tw-foss](https://github.com/tjwei/awesome-tw-foss)
 
 ## conditions for listing
 * one of main author is korean
-* must have CI
-* must have testing
-* must have document
-
-
+* must have CI, testing, document
+* if the platform supports package manager, it can be installed by package manager
 
 ## Python
 * [Wand](https://github.com/dahlia/wand) The ctypes-based simple ImageMagick binding for Python http://wand-py.org/
