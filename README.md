@@ -14,3 +14,6 @@ inspired by [awesome-tw-foss](https://github.com/tjwei/awesome-tw-foss)
 
 ## Python
 * [Wand](https://github.com/dahlia/wand) The ctypes-based simple ImageMagick binding for Python http://wand-py.org/
+
+## Java
+* [Netty](https://github.com/netty/netty) Netty project - an event-driven asynchronous network application framework http://netty.io/
