@@ -8,7 +8,7 @@ inspired by [awesome-tw-foss](https://github.com/tjwei/awesome-tw-foss)
 
 ## conditions for listing
 * one of main author is korean
-* must have CI, testing, document
+* must have CI, enough testing, document
 * if the platform supports package manager, it can be installed by a package manager
 
 ## Python
