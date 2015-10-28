@@ -34,3 +34,6 @@ inspired by [awesome-tw-foss](https://github.com/tjwei/awesome-tw-foss)
 
 ## ObjC
 * [FoundationExtension](https://github.com/youknowone/FoundationExtension) Foundation/Cocoa/UIKit extension kit http://youknowone.github.com/FoundationExtension
+
+## PHP
+* [php-jira](https://github.com/lesstif/php-jira-rest-client) A PHP client library for integrating with the JIRA issue & bug tracker software.
