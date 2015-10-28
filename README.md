@@ -22,6 +22,7 @@ inspired by [awesome-tw-foss](https://github.com/tjwei/awesome-tw-foss)
 
 ## Javascript
 * [Summernote](https://github.com/summernote/summernote) Super simple WYSIWYG editor using Bootstrap http://summernote.org/
+* [jews](https://github.com/disjukr/jews) Refine korea news site
 
 ## Ruby
 
