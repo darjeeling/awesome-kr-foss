@@ -2,14 +2,14 @@
 
 [![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)](https://github.com/darjeeling/awesome-kr-foss)
 
-A curated list of awesome Korean open source projects
+A curated list of awesome Korean open source projects.
 
 inspired by [awesome-tw-foss](https://github.com/tjwei/awesome-tw-foss)
 
-## conditions for listing
-* one of main author is korean
-* must have CI, enough testing, document
-* if the platform supports package manager, it can be installed by a package manager
+## Conditions for listing
+* One of main authors must be korean.
+* The code must have CI, enough testing, and documentation.
+* If the platform supports a package manager, it can be installed by a package manager.
 
 ## Python
 * [Wand](https://github.com/dahlia/wand) The ctypes-based simple ImageMagick binding for Python http://wand-py.org/
@@ -19,7 +19,7 @@ inspired by [awesome-tw-foss](https://github.com/tjwei/awesome-tw-foss)
 
 ## Java
 * [Netty](https://github.com/netty/netty) Netty project - an event-driven asynchronous network application framework http://netty.io/
-* [Haeinsa](https://github.com/VCNC/haeinsa) Haeinsa is linearly scalable multi-row, multi-table transaction library for HBase
+* [Haeinsa](https://github.com/VCNC/haeinsa) Haeinsa is a linearly scalable multi-row, multi-table transaction library for HBase
 
 ## Javascript
 * [Summernote](https://github.com/summernote/summernote) Super simple WYSIWYG editor using Bootstrap http://summernote.org/
