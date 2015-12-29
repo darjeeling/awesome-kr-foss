@@ -7,7 +7,7 @@ A curated list of awesome Korean open source projects.
 inspired by [awesome-tw-foss](https://github.com/tjwei/awesome-tw-foss)
 
 ## Conditions for listing
-* One of main authors must be korean.
+* One of main authors must be a Korean.
 * The code must have CI, enough testing, and documentation.
 * If the platform supports a package manager, it can be installed by a package manager.
 
