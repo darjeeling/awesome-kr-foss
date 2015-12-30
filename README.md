@@ -43,5 +43,5 @@ inspired by [awesome-tw-foss](https://github.com/tjwei/awesome-tw-foss)
 ## Fonts
 * [Spoqa Han Sans](https://github.com/spoqa/spoqa-han-sans) A multigingual font which supports Roman, Hangul, Hiragana, Katakana, Chinese characters, and other punctuation marks  http://www.spoqa-han-sans.com/
 
-## infrastructure Tools
-* [Tadpole DB Hub](https://github.com/hangum/TadpoleForDBTools) Tadpole DB Hub is Unified infrastructure tool, various environment based interface for managing Apache Hive, Apache Tajo, Amazon RDS, MySQL, MariaDB, Oracle, SQLite, MSSQL, PostgreSQL, CUBRID and MongoDB databases. It enables you to handle typical DB over the World Wide Web.
+## Infrastructure Tools
+* [Tadpole DB Hub](https://github.com/hangum/TadpoleForDBTools) Tadpole DB Hub is Unified infrastructure tool. It enables you to handle typical DB over the World Wide Web.
