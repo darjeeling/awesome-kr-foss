@@ -34,6 +34,11 @@ inspired by [awesome-tw-foss](https://github.com/tjwei/awesome-tw-foss)
 * [rust-chrono](https://github.com/lifthrasiir/rust-chrono) Date and time library for Rust
 * [rust-encoding](https://github.com/lifthrasiir/rust-encoding) Character encoding support for Rust
 
+## Swift
+
+* [Then](https://github.com/devxoul/Then) ✨ Super sweet syntactic sugar for Swift initializers.
+* [URLNavigator](https://github.com/devxoul/URLNavigator) :boat: Elegant URL Routing for Swift
+
 ## ObjC
 * [FoundationExtension](https://github.com/youknowone/FoundationExtension) Foundation/Cocoa/UIKit extension kit http://youknowone.github.com/FoundationExtension
 
