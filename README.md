@@ -16,6 +16,7 @@ inspired by [awesome-tw-foss](https://github.com/tjwei/awesome-tw-foss)
 * [libsass-python](https://github.com/dahlia/libsass-python) A straightforward binding of libsass for Python. Compile Sass/SCSS in Python with no Ruby stack at all! http://hongminhee.org/libsass-python/
 * [Hangulize](https://github.com/sublee/hangulize) Korean Alphabet Transcription
 * [konlpy](https://github.com/konlpy/konlpy) Python package for Korean natural language processing. http://konlpy.org
+* [plate](https://github.com/Plate-Project/plate) API documentations tool based on Markdown(md) using Python. http://plate.readthedocs.io/
 
 ## Java
 * [Netty](https://github.com/netty/netty) Netty project - an event-driven asynchronous network application framework http://netty.io/
