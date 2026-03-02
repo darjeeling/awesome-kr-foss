@@ -1,50 +1,86 @@
-# awesome-kr-foss
+# Awesome Korean FOSS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)](https://github.com/darjeeling/awesome-kr-foss)
+> A curated list of awesome open source projects created by Korean developers or Korean companies.
 
-A curated list of awesome Korean open source projects.
+Inspired by [awesome-tw-foss](https://github.com/tjwei/awesome-tw-foss).
 
-inspired by [awesome-tw-foss](https://github.com/tjwei/awesome-tw-foss)
+## Contents
 
-## Conditions for listing
-* One of main authors must be a Korean.
-* The code must have CI, enough testing, and documentation.
-* If the platform supports a package manager, it can be installed by a package manager.
+- [Conditions for Listing](#conditions-for-listing)
+- [Python](#python)
+- [Java](#java)
+- [JavaScript](#javascript)
+- [Ruby](#ruby)
+- [Rust](#rust)
+- [Swift](#swift)
+- [Objective-C](#objective-c)
+- [PHP](#php)
+- [Tools](#tools)
+- [Fonts](#fonts)
+
+## Conditions for Listing
+
+- One of the main authors must be Korean, or the project must be maintained by a Korean company.
+- The code must have CI, enough testing, and documentation.
+- If the platform supports a package manager, it can be installed via a package manager.
 
 ## Python
-* [Wand](https://github.com/dahlia/wand) The ctypes-based simple ImageMagick binding for Python http://wand-py.org/
-* [libsass-python](https://github.com/dahlia/libsass-python) A straightforward binding of libsass for Python. Compile Sass/SCSS in Python with no Ruby stack at all! http://hongminhee.org/libsass-python/
-* [Hangulize](https://github.com/sublee/hangulize) Korean Alphabet Transcription
-* [konlpy](https://github.com/konlpy/konlpy) Python package for Korean natural language processing. http://konlpy.org
-* [plate](https://github.com/Plate-Project/plate) API documentations tool based on Markdown(md) using Python. http://plate.readthedocs.io/
+
+- [Wand](https://github.com/dahlia/wand) — ctypes-based simple ImageMagick binding for Python.
+- [libsass-python](https://github.com/dahlia/libsass-python) — Straightforward binding of libsass for Python. Compile Sass/SCSS with no Ruby stack at all.
+- [Hangulize](https://github.com/sublee/hangulize) — Korean alphabet transcription library.
+- [KoNLPy](https://github.com/konlpy/konlpy) — Python package for Korean natural language processing.
+- [khaiii](https://github.com/kakao/khaiii) — Kakao Hangul Analyzer III: a Korean morphological analyzer based on CNN. (Kakao)
+- [plate](https://github.com/Plate-Project/plate) — API documentation tool based on Markdown using Python.
 
 ## Java
-* [Netty](https://github.com/netty/netty) Netty project - an event-driven asynchronous network application framework http://netty.io/
-* [Haeinsa](https://github.com/VCNC/haeinsa) Haeinsa is a linearly scalable multi-row, multi-table transaction library for HBase
 
-## Javascript
-* [Summernote](https://github.com/summernote/summernote) Super simple WYSIWYG editor using Bootstrap http://summernote.org/
-* [jews](https://github.com/disjukr/jews) Refine korea news site
-* [yaksok.js](https://github.com/disjukr/yaksok.js) yaksok toolkit http://0xabcdef.com/yaksok.js/
+- [Netty](https://github.com/netty/netty) — Event-driven asynchronous network application framework.
+- [Haeinsa](https://github.com/VCNC/haeinsa) — Linearly scalable multi-row, multi-table transaction library for HBase.
+- [Pinpoint](https://github.com/naver/pinpoint) — APM (Application Performance Management) tool for large-scale distributed systems. (NAVER)
+
+## JavaScript
+
+- [Summernote](https://github.com/summernote/summernote) — Super simple WYSIWYG editor built on Bootstrap.
+- [tui.editor](https://github.com/nhn/tui.editor) — Markdown WYSIWYG editor with GFM support and extensible plugins. (NHN)
+- [tui.grid](https://github.com/nhn/tui.grid) — Powerful Grid component with virtual scrolling and extensive features. (NHN)
+- [es-toolkit](https://github.com/toss/es-toolkit) — Modern, performant utility library for JavaScript — a lodash alternative. (Toss)
+- [jews](https://github.com/disjukr/jews) — Refine Korean news sites.
+- [yaksok.js](https://github.com/disjukr/yaksok.js) — Yaksok Korean programming language toolkit.
 
 ## Ruby
 
-* [CocoaSeeds](https://github.com/devxoul/CocoaSeeds) Git Submodule Alternative for Cocoa.
+- [CocoaSeeds](https://github.com/devxoul/CocoaSeeds) — Git submodule alternative for Cocoa projects.
 
 ## Rust
-* [rust-chrono](https://github.com/lifthrasiir/rust-chrono) Date and time library for Rust
-* [rust-encoding](https://github.com/lifthrasiir/rust-encoding) Character encoding support for Rust
+
+- [rust-chrono](https://github.com/lifthrasiir/rust-chrono) — Date and time library for Rust.
+- [rust-encoding](https://github.com/lifthrasiir/rust-encoding) — Character encoding support for Rust.
 
 ## Swift
 
-* [Then](https://github.com/devxoul/Then) ✨ Super sweet syntactic sugar for Swift initializers.
-* [URLNavigator](https://github.com/devxoul/URLNavigator) :boat: Elegant URL Routing for Swift
+- [Then](https://github.com/devxoul/Then) — ✨ Super sweet syntactic sugar for Swift initializers.
+- [URLNavigator](https://github.com/devxoul/URLNavigator) — ⛵ Elegant URL routing for Swift.
 
-## ObjC
-* [FoundationExtension](https://github.com/youknowone/FoundationExtension) Foundation/Cocoa/UIKit extension kit http://youknowone.github.com/FoundationExtension
+## Objective-C
+
+- [FoundationExtension](https://github.com/youknowone/FoundationExtension) — Foundation/Cocoa/UIKit extension kit.
 
 ## PHP
-* [php-jira](https://github.com/lesstif/php-jira-rest-client) A PHP client library for integrating with the JIRA issue & bug tracker software.
+
+- [php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) — PHP client library for integrating with JIRA issue & bug tracker software.
+
+## Tools
+
+- [fzf](https://github.com/junegunn/fzf) — ⚡ A command-line fuzzy finder. (junegunn Choi)
 
 ## Fonts
-* [Spoqa Han Sans](https://github.com/spoqa/spoqa-han-sans) A multigingual font which supports Roman, Hangul, Hiragana, Katakana, Chinese characters, and other punctuation marks  http://www.spoqa-han-sans.com/
+
+- [Spoqa Han Sans](https://github.com/spoqa/spoqa-han-sans) — Multilingual font supporting Roman, Hangul, Hiragana, Katakana, and Chinese characters. (Spoqa)
+- [D2Coding](https://github.com/naver/d2codingfont) — Developer-friendly monospace font optimized for Korean. (NAVER)
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
