@@ -31,6 +31,8 @@ Inspired by [awesome-tw-foss](https://github.com/tjwei/awesome-tw-foss).
 - [Hangulize](https://github.com/sublee/hangulize) — Korean alphabet transcription library.
 - [KoNLPy](https://github.com/konlpy/konlpy) — Python package for Korean natural language processing.
 - [khaiii](https://github.com/kakao/khaiii) — Kakao Hangul Analyzer III: a Korean morphological analyzer based on CNN. (Kakao)
+- [buffalo](https://github.com/kakao/buffalo) — Scalable library for matrix factorization and approximate nearest neighbor search for recommender systems. (Kakao)
+- [n2](https://github.com/kakao/n2) — Lightweight approximate nearest neighbor library with Python bindings. (Kakao)
 - [plate](https://github.com/Plate-Project/plate) — API documentation tool based on Markdown using Python.
 
 ## Java
@@ -38,13 +40,19 @@ Inspired by [awesome-tw-foss](https://github.com/tjwei/awesome-tw-foss).
 - [Netty](https://github.com/netty/netty) — Event-driven asynchronous network application framework.
 - [Haeinsa](https://github.com/VCNC/haeinsa) — Linearly scalable multi-row, multi-table transaction library for HBase.
 - [Pinpoint](https://github.com/naver/pinpoint) — APM (Application Performance Management) tool for large-scale distributed systems. (NAVER)
+- [line-bot-sdk-java](https://github.com/line/line-bot-sdk-java) — LINE Messaging API SDK for Java. (LINE)
 
 ## JavaScript
 
 - [Summernote](https://github.com/summernote/summernote) — Super simple WYSIWYG editor built on Bootstrap.
 - [tui.editor](https://github.com/nhn/tui.editor) — Markdown WYSIWYG editor with GFM support and extensible plugins. (NHN)
 - [tui.grid](https://github.com/nhn/tui.grid) — Powerful Grid component with virtual scrolling and extensive features. (NHN)
+- [tui.calendar](https://github.com/nhn/tui.calendar) — Fully featured JavaScript calendar with extensive customization options. (NHN)
+- [egjs-flicking](https://github.com/naver/egjs-flicking) — Infinitely flexible, customizable carousel component. (NAVER)
+- [egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid) — Module for arranging card elements in an infinite grid layout. (NAVER)
+- [egjs-view360](https://github.com/naver/egjs-view360) — 360° panorama image and video viewer component. (NAVER)
 - [es-toolkit](https://github.com/toss/es-toolkit) — Modern, performant utility library for JavaScript — a lodash alternative. (Toss)
+- [line-bot-sdk-nodejs](https://github.com/line/line-bot-sdk-nodejs) — LINE Messaging API SDK for Node.js. (LINE)
 - [jews](https://github.com/disjukr/jews) — Refine Korean news sites.
 - [yaksok.js](https://github.com/disjukr/yaksok.js) — Yaksok Korean programming language toolkit.
 
@@ -73,6 +81,9 @@ Inspired by [awesome-tw-foss](https://github.com/tjwei/awesome-tw-foss).
 ## Tools
 
 - [fzf](https://github.com/junegunn/fzf) — ⚡ A command-line fuzzy finder. (junegunn Choi)
+- [vim-plug](https://github.com/junegunn/vim-plug) — Minimalist Vim plugin manager. (junegunn Choi)
+- [fzf.vim](https://github.com/junegunn/fzf.vim) — fzf-based fuzzy-search commands and mappings for Vim. (junegunn Choi)
+- [goyo.vim](https://github.com/junegunn/goyo.vim) — Distraction-free writing in Vim. (junegunn Choi)
 
 ## Fonts
 
