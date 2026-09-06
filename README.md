@@ -16,6 +16,7 @@ Inspired by [awesome-tw-foss](https://github.com/tjwei/awesome-tw-foss).
 - [Objective-C](#objective-c)
 - [PHP](#php)
 - [Tools](#tools)
+- [Data](#data)
 - [Fonts](#fonts)
 
 ## Conditions for Listing
@@ -84,6 +85,10 @@ Inspired by [awesome-tw-foss](https://github.com/tjwei/awesome-tw-foss).
 - [vim-plug](https://github.com/junegunn/vim-plug) — Minimalist Vim plugin manager. (junegunn Choi)
 - [fzf.vim](https://github.com/junegunn/fzf.vim) — fzf-based fuzzy-search commands and mappings for Vim. (junegunn Choi)
 - [goyo.vim](https://github.com/junegunn/goyo.vim) — Distraction-free writing in Vim. (junegunn Choi)
+
+## Data
+
+- [korean-football-team-names](https://github.com/dwoony0909-tech/korean-football-team-names) — English → Korean club name mapping for 264 European clubs (CC0), distributed as JSON/CSV with an npm package and a Zenodo DOI.
 
 ## Fonts
 
