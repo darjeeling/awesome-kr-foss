@@ -84,6 +84,8 @@ Inspired by [awesome-tw-foss](https://github.com/tjwei/awesome-tw-foss).
 - [vim-plug](https://github.com/junegunn/vim-plug) — Minimalist Vim plugin manager. (junegunn Choi)
 - [fzf.vim](https://github.com/junegunn/fzf.vim) — fzf-based fuzzy-search commands and mappings for Vim. (junegunn Choi)
 - [goyo.vim](https://github.com/junegunn/goyo.vim) — Distraction-free writing in Vim. (junegunn Choi)
+- [SoundVisualizer for Android](https://github.com/SOVIS-TEAM/SoundVisualizer-Android) — Accessibility app for deaf and hard-of-hearing people that shows the direction, loudness and type of the sounds a phone plays as a glow along the screen edges. (SOVIS)
+- [SoundVisualizer for Windows](https://github.com/SOVIS-TEAM/SoundVisualizer-Windows) — The same sound visualizer for Windows, drawn over videos, music and games; installable from the Microsoft Store. (SOVIS)
 
 ## Fonts
 
