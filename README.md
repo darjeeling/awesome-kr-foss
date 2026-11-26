@@ -34,6 +34,7 @@ Inspired by [awesome-tw-foss](https://github.com/tjwei/awesome-tw-foss).
 - [buffalo](https://github.com/kakao/buffalo) — Scalable library for matrix factorization and approximate nearest neighbor search for recommender systems. (Kakao)
 - [n2](https://github.com/kakao/n2) — Lightweight approximate nearest neighbor library with Python bindings. (Kakao)
 - [plate](https://github.com/Plate-Project/plate) — API documentation tool based on Markdown using Python.
+- [fin-checkup](https://github.com/younghwan91/fin-checkup) — Financial-statement checkup for Korean listed companies from DART filings: 17 ratios shown as traffic lights with their formulas and thresholds, published as a static site, per-company JSON and an MCP server.
 
 ## Java
 
